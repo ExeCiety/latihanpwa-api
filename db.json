@@ -1,102 +1,104 @@
-[
-  {
-    "name": "Beard Roman",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Rojas Elliott",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Lucy Holder",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Sonya Grimes",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Robin Andrews",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Dudley Rojas",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Lopez Benton",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Audrey Chambers",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Vera Wyatt",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Bailey Bolton",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Deirdre Preston",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Deloris Howell",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Lawson Leach",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Tameka Trevino",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Stokes Hopkins",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Benjamin Mcknight",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Erma Sanford",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Barker Waller",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Evans Logan",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Phoebe Foley",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Justine Vazquez",
-    "favoriteFruit": "apple"
-  },
-  {
-    "name": "Lynette Nichols",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Yates Riddle",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "name": "Kelsey Mejia",
-    "favoriteFruit": "banana"
-  },
-  {
-    "name": "Hyde Pennington",
-    "favoriteFruit": "banana"
-  }
-]
+{
+  "persons": [
+      {
+        "name": "Beard Roman",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Rojas Elliott",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Lucy Holder",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Sonya Grimes",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Robin Andrews",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Dudley Rojas",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Lopez Benton",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Audrey Chambers",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Vera Wyatt",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Bailey Bolton",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Deirdre Preston",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Deloris Howell",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Lawson Leach",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Tameka Trevino",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Stokes Hopkins",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Benjamin Mcknight",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Erma Sanford",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Barker Waller",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Evans Logan",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Phoebe Foley",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Justine Vazquez",
+        "favoriteFruit": "apple"
+      },
+      {
+        "name": "Lynette Nichols",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Yates Riddle",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "name": "Kelsey Mejia",
+        "favoriteFruit": "banana"
+      },
+      {
+        "name": "Hyde Pennington",
+        "favoriteFruit": "banana"
+      }
+    ]
+}
